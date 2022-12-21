@@ -1,4 +1,4 @@
-site_name: HILA/LAC 484 History of Latin American Sport
+site_name: HILA 256/LAC 252 Introduction to Modern Latin America
 
 theme:
     features:
@@ -12,7 +12,7 @@ theme:
     # Light mode
     - media: "(prefers-color-scheme: light)"
       scheme: default
-      primary: deep orange
+      primary: blue grey
       accent: indigo
       toggle:
         icon: material/toggle-switch-off-outline
@@ -21,8 +21,8 @@ theme:
     # Dark mode
     - media: "(prefers-color-scheme: dark)"
       scheme: slate
-      primary: deep orange 
-      accent: blue
+      primary: blue grey
+      accent: indigo
       toggle:
         icon: material/toggle-switch
         name: Switch to light mode
