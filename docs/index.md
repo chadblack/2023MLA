@@ -2,7 +2,6 @@
 hide:
  - navigation
  - toc
-title: Welcome 
+title: Welcome to HILA 256/LAC 251
 ---
-
-![[img/pele-bicicleta.jpg]]
+![[guate_coup.png]]
