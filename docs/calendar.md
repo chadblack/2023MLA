@@ -8,27 +8,27 @@ title: Calendar
 Tuesday, January 24, 2023  
 Thursday, January 26, 2023  
 
-## Week 2: Theory and Practice of Sport History
+## Week 2: Colonial Roots and Independence
 Tuesday, January 31, 2023  
 Thursday, February 2, 2023  
 
-## Week 3: Premodern Sport, Ritual, and Leisure
+## Week 3: What is a Nation
 Tuesday, February 7, 2023  
 Thursday, February 9, 2023  
 
-## Week 4: Transitions I - the 19th century
+## Week 4: Brazil and Abolition
 Tuesday, February 14, 2023  
 Thursday, February 16, 2023  
 
-## Week 5: Transitions II - the New Century
+## Week 5: Contentious Liberalism
 Tuesday, February 21, 2023  
 Thursday, February 23, 2023  
 
-## Week 6: Populism, Sport, and Nation I
+## Week 6: Export Economies and 19th-c. Capitalism
 Tuesday, February 28, 2023  
 Thursday, March 2, 2023  
 
-## Week 7: Populism, Sport, and Nation II
+## Week 7: US Interventions and the Hemispheric Division of Labor
 Tuesday, March 7, 2023  
 Thursday, March 9, 2023  
 
@@ -36,31 +36,31 @@ Thursday, March 9, 2023
 Tuesday, March 14, 2023  
 Thursday, March 16, 2023  
 
-## Week 9: Boxing and Race
+## Week 9: Midterm Exam
 Tuesday, March 21, 2023  
 Thursday, March 23, 2023  
 
-## Week 10: Biésbol/Baseball
+## Week 10: Mexican Revolutions
 Tuesday, March 28, 2023  
 Thursday, March 30, 2023  
 
-## Week 11: Olympics 1968
+## Week 11: The Rise of Mass Politics
 Tuesday, April 4, 2023  
 Thursday, April 6, 2023  
 
-## Week 12: Military Dictatorships and the Political Use of Sport
+## Week 12: From Popular Fronts to Cold Wars
 Tuesday, April 11, 2023  
 Thursday, April 13, 2023  
 
-## Week 13: Women Play Too
+## Week 13: Revolutions
 Tuesday, April 18, 2023  
 Thursday, April 20, 2023  
 
-## Week 14: Global Sport Capitalism
+## Week 14: State Terror and Capitalism
 Tuesday, April 25, 2023  
 Thursday, April 27, 2023  
 
-## Week 15: Capoeira and Jujitsu
+## Week 15: Hope, Struggle, and Catastrophe
 Tuesday, May 2, 2023  
 Thursday, May 4, 2023  
 
