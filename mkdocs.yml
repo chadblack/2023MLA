@@ -19,7 +19,7 @@ theme:
     # Light mode
     - media: "(prefers-color-scheme: light)"
       scheme: default
-      primary: blue grey
+      primary: black
       accent: indigo
       toggle:
         icon: material/brightness-7
@@ -28,7 +28,7 @@ theme:
     # Dark mode
     - media: "(prefers-color-scheme: dark)"
       scheme: slate
-      primary: blue grey
+      primary: black 
       accent: indigo
       toggle:
         icon: material/brightness-3
@@ -74,4 +74,3 @@ nav:
   - Assignments: assignments.md
   - Calendar: calendar.md
 
-  
