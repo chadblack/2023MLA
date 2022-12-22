@@ -1,7 +1,6 @@
 ---
-hide:
- - navigation
- - toc
-title: Welcome to HILA 256/LAC 251
+template: home.html
 ---
-![[guate_coup.png]]
+
+
+

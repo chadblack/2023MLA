@@ -1,6 +1,7 @@
 site_name: HILA 256/LAC 252 Introduction to Modern Latin America
 
 theme:
+    custom_dir: docs/overrides
     features:
       - navigation.tabs
       - navigation.tabs.sticky
