@@ -36,19 +36,13 @@ These assignments are designed to contribute to the overall objectives of the se
 
 # Course Objectives
 
-1.  To introduce students to the forces, events, and conflicts that defined the process of nation building in the Americas, including:
-    -   The legacies of Spanish imperial rule on the new nation states of 19th-century Latin America.
-    -   The historical processes of inclusion and exclusion in building new nations.
-    -   The role of indigenous people in building and contesting modern Latin American societies
-    -   The role of the United States in shaping the political economy of modern Latin America.
-    -   The expressions in Latin American popular culture of the tensions within society.
-2.  To understand and use a variety of sources that provide the core of historical inquiry.
-    -   Primary written sources, and their particular challenges.
-    -   Secondary sources, and how to read them critically.
-    -   Visual and physical sources of evidence.
-    -   The absence of sources— finding lost voices, and reading against the grain.
-3.  To be able to identify, understand, and critique historical argument.
-    -   Historians follow a lose set of epistemological, theoretical, and evidentiary rules in their attempts to recreate the limited past that is accessible to us through our incomplete archival record. At the college level and beyond, it is your task to learn how to identify an author’s central argument and to evaluate it based on its evidence, sources, logic, and narrative.
+HILA 256/LAC 252 fulfills part of the **Volcore Global Citizenship- International Focus** requirement. Courses in the International Focus area of the Global Citizenship category develop students’ knowledge of international cultures. Courses will help students develop an understanding of historical influences and contemporary dynamics that shape the experiences of those living outside the United States. 
+
+Courses in this area are expected to produce the following learning outcomes for students: 
+
+- Students will exhibit knowledge of the histories, experiences, religions, and/or languages of social, ethnic, and cultural groups outside of the United States. 
+- Students will demonstrate understanding of appropriate thematic and course-related vocabulary, or intermediate-level competency in a language other than English. 
+- Students will demonstrate an ability to critically compare and reflect on different social and cultural perspectives.
 
 # Policies
 
