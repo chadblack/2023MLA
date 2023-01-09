@@ -70,7 +70,12 @@ extra_javascript:
 
 nav:
   - Home: index.md
-  - Syllabus: syllabus.md
-  - Assignments: assignments.md
-  - Calendar: calendar.md
+  - Syllabus: 
+    - Course Info: syllabus.md
+    - Assignments: assignments.md
+    - Calendar: calendar.md
+  
+  - Resources:
+    - Making Notes: resources/an approach to making notes.md
+
 
