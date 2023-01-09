@@ -1,7 +1,6 @@
 ---
 hide:
-  - navigation
-title: Syllabus 
+title: Course Info 
 ---
 
 Introduction to Modern Latin America  
