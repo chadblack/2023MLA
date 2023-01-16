@@ -10,11 +10,11 @@ Spring 2023
 **Prof. Chad Black**  
 **Email:** cblack6@utk.edu  
 **Phone:** 974-9871  
-**Office:** 2627 Dunford Hall, 6th Floor (Until they burn that Dunford down.) 
+**Office:** 2627 Dunford Hall, 6th Floor (Until they burn that Dunford down.)   
 **Office Hours:** Wednesday, 2:30-4:30, or by appointment
 
 **TAS:**
-
+**Mr. Roraig **
 
 
 # About

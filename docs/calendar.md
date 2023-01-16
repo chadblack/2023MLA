@@ -15,9 +15,6 @@ Readings:
 
 1. Steve Stern, “The Tricks of Time: Colonial Legacies and Historical Sensibilities in Latin America,” _The Princeton University Library Chronicle_ 57.3 (Spring 1996), pp. 371-392.
 
-DUE:
-
-
 
 ## Week 2: Colonial Roots and Independence
 
@@ -30,9 +27,6 @@ Readings:
 Readings:
 
 - John Chasteen, *Born in Fire and Blood*, Chapter 4.
-
-DUE:
-
 
 
 ## Week 3: What is a Nation
@@ -47,7 +41,6 @@ Readings:
 
 - Dore, Elizabeth. “One Step Forward, Two Steps Back: Gender and the State in the Long-Nineteenth Century.” In Dore and Molyneux, eds., _Hidden Histories of Gender and the State in Latin America_ (Durham: Duke University Press, 2000) 3-32.
 
-DUE:  
 
 ## Week 4: Brazil and Abolition
 
@@ -74,8 +67,6 @@ Readings:
 
 - Sanders, James E. “The Vanguard of the Atlantic World: Contesting Modernity in Nineteenth-Century Latin America.” _Latin American Research Review_ 46.2 (2011): 104-127.
 
-DUE:
-
 
 ## Week 6: Export Economies and 19th-c. Capitalism
 
@@ -89,8 +80,6 @@ Readings:
 Readings:
 
 - Reinhardt, “The Consolidation of the Import-Export Economy in 19th-Cent. Colombia”
-
-DUE:
 
 
 ## Week 7: US Interventions and the Hemispheric Division of Labor
@@ -109,7 +98,7 @@ Readings:
 -   Ramón Ruíz, “The Roots of Cuban Nationalism”
 -   José Martí, “Our America”
 
-DUE:
+**DUE:** How To Get Rich in Latin America
 
 
 ## Week 8: Spring Break!!
@@ -136,7 +125,6 @@ Readings:
 -   Meyers, Course of Mexican History, Part 1
 -   James Creelman, “President Díaz, Hero of the Americas”
 
-DUE:
 
 
 **Thursday, March 30, 2023: No Straightforward Story**  
@@ -144,8 +132,6 @@ Readings:
 
 -   Meyers, Course of Mexican History, Part 2
 -   Francisco Madero, “Plan of San Luis Potosí”
-
-DUE:
 
 
 ## Week 11: From Popular Fronts to Cold Wars
@@ -160,8 +146,6 @@ Readings:
 Readings:
 
 - Watch *Saludos Amigos*
-
-DUE:
 
 
 ## Week 12: Towards Revolutions
@@ -178,8 +162,6 @@ Readings:
 
 - Chasteen, Chapter 9.
 
-DUE:
-
 
 ## Week 13: The Velvet Brick
 
@@ -194,7 +176,6 @@ Readings:
 - Gladys McCormick, "The Last Door: Political Prisoners and the Use of Torture in Mexico's Dirty War," *The Americas* 74:1 (January 2017): 57-81.
 
 
-DUE:
 
 ## Week 14: State Terror and Capitalism
 
@@ -208,8 +189,6 @@ Readings:
 
 - Natalia Milanesio, "Sex and Democracy: The Meanings of the Destape in Postdictatorial Argentina." _Hispanic American Historical Review_ 99, no. 1 (2019): 91-122.
 
-DUE:
-
 
 ## Week 15: Hope, Struggle, and Catastrophe
 
@@ -222,8 +201,6 @@ Readings:
 Readings:
 
 - Mario Garcés, “October 2019: Social Uprising in Neoliberal Chile,” _Journal of Latin American Cultural Studies_ 28:3 (2019): 483-491.
-
-DUE:
 
 
 ## Week 16: Wrap Up
