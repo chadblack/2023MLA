@@ -18,7 +18,7 @@ title: La Llorona (2019)
 
 ### Plot
 
-In *La Llorona,* Guatemala's first ever Academy Award submission to make the short list for Best Foreign Film, director Jayro Bustamante takes a fresh twist on a common Mesoamerican folktale. La llorona, the weeping woman, is a malign spirit whose ghost haunts bodies of water, crying for her children that she drowned. The apparition threatens to take other children in an act of horrifying repetition. The folktale is old, with roots at least to the 16th century and the Spanish colonial period, and in recent decades became a popular motif for film, television, and music. Bustamante's *weeping woman* deviates from the tradition by focusing her haunting on the perpetrator of unspeakable crimes. In this way, the filmmaker puts the genre of horror to use in dealing with the collective trauma of a nation wracked by a violent, genocidal, dirty war against its own people. 
+In [*La Llorona* (2019)](https://www.imdb.com/title/tt10767168/), Guatemala's first Academy Award submission to make the short list for Best Foreign Film, director Jayro Bustamante takes a fresh twist on a common Mesoamerican folktale. La llorona, the weeping woman, is a malign spirit whose ghost haunts bodies of water, crying for her children that she drowned. The apparition threatens to take other children in an act of horrifying repetition. The folktale is old, with roots at least to the 16th century and the Spanish colonial period, and in recent decades became a popular motif for film, television, and music. Bustamante's *weeping woman* deviates from the tradition by focusing her haunting on the perpetrator of unspeakable crimes. In this way, the filmmaker puts the genre of horror to use in dealing with the collective trauma of a nation wracked by a violent, genocidal, dirty war against its own people. 
 
 The fictional General and former President Enrique Monteverde is being put on trial for crimes against humanity and acts of genocide during Guatemala's Civil War of the 1980s. The character is based on the real-life General and President Efraín Ríos Montt, an evangelical protestant and ally of the Reagan Administration in its war of containment in Central America. 
 
@@ -30,7 +30,7 @@ The film largely centers on Monteverde and his family, both in the courtroom and
 
 Your assignment is to write a 4-5 page critical review of *La Llorona* that evaluates its historical merits. How effective is the genre of horror at processing social tragedy in this film? What is the moral of the story, so to speak? What role does gender play in this film? Indigenousness? Why adopt the folktale of La Llorona? Each paper should include an overview of the important plot points and characters, and then a discussion of what this film reveals about Guatemalan and Latin American history in the current moment. 
 
-You must use at least three sources in writing your paper. You many use any reading from class, or in the resources listed below, excluding IMDB. 
+You must use at least three sources in writing your paper. You many use any reading from class, or in the resources listed below. 
 
 Please note that this paper is to be entirely your own work. You may not use internet resources or other outside readings. Stick to the readings that have been assigned in class. Whenever you use ideas from those readings, whether explicitly or not, you must cite them in footnotes. Citations should conform to Turabian style. A guide to Turabian style citations is available [here](https://www.chicagomanualofstyle.org/tools_citationguide.html)
 
