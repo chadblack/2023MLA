@@ -10,7 +10,9 @@ Occasionally, at the start of class, you will be asked to write a short paragrap
 
 There will be two exams- a midterm and final. 
 
-## how to get rich in Latin America (15%)
+## get rich in Latin America (15%)
+
+Time to play turn-of-the-century Shark Tank. Only, you won't be pitching an invention, you'll be pitching investment in the Latin American export boom of the early 20th century. Thanks to a StoryMap put together by Latin American Historian [Casey Lurtz](https://history.jhu.edu/directory/casey-lurtz/), we are going to read some early investment literature, and students will write a pitch to try to convince your TA to invest their millions in your project.  Please follow the instructions on [Get Rich in Latin America](https://storymaps.arcgis.com/stories/babf612b4c3d431ea72e0b5f96c8cb97).
 
 ## film reaction (15%)
 
