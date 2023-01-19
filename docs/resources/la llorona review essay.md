@@ -36,9 +36,10 @@ Please note that this paper is to be entirely your own work. You may not use int
 
 ### Resources
 
-- Goldman, Francisco. (2022) "*La Llorona*: Turning Horror into Light." [Criterion Collection](https://www.criterion.com/current/posts/7960-la-llorona-turning-horror-into-light)
+- [Goldman, Francisco. (2022) "*La Llorona*: Turning Horror into Light." Criterion Collection](https://www.criterion.com/current/posts/7960-la-llorona-turning-horror-into-light)
 - "Acts of Genocide".  In, Grandin, Greg, Deborah T. Levenson, and Elizabeth Ogelsby, ed. (2011) *The Guatemala Reader : History, Culture, Politics*. Durham: Duke University Press.
 - US State Department and US Embassy. "We Cannot Confirm nor Deny." In, Grandin, et. al. (2011) *The Guatemala Reader : History, Culture, Politics*. Durham: Duke University Press.
 - Falla, Ricardo. "The San Francisco Massacre, July 1982." In, Grandin, et.al. (2011) *The Guatemala Reader : History, Culture, Politics*. Durham: Duke University Press.
 - Menchú, Rigoberta. "Our History Is a Living History." In, Grandin, et.al. (2011) *The Guatemala Reader : History, Culture, Politics*. Durham: Duke University Press.
-- Winick, Stephen. (2021) "La Llorona: An Introduction to the Weeping Woman." [Library of Congress](https://blogs.loc.gov/folklife/2021/10/la-llorona-an-introduction-to-the-weeping-woman/)
+- [Winick, Stephen. (2021) "La Llorona: An Introduction to the Weeping Woman." Library of Congress](https://blogs.loc.gov/folklife/2021/10/la-llorona-an-introduction-to-the-weeping-woman/)
+
