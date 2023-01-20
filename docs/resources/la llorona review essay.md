@@ -36,10 +36,13 @@ Please note that this paper is to be entirely your own work. You may not use int
 
 ### Resources
 
+- Brett, Roddy. (2016) ["Peace without social reconciliation? Understanding the trial of Generals Ríos Montt and Rodriguez Sánchez in the wake of Guatemala's genocide."](https://doi.org/10.1080/14623528.2016.1186955) *Journal of Genocide Research*. Vol. 18, No. 2-3. 
+- García, M. L. (2019). ["Translated Justice? The Ixil Maya and the 2013 Trial of José Efraín Ríos Montt for Genocide in Guatemala."](https://anthrosource.onlinelibrary.wiley.com/doi/full/10.1111/aman.13230?casa_token=6oQGU7IIOv0AAAAA%3AvKG6ppVZXkEej3-zYQttVsYUt8--m0XTCmpNk66AXoiK66IpysHtRzFXI-KJjAlzMiPmwNxDSsDb1_I) _American Anthropologist_, _121_(2), 311-324. 
 - [Goldman, Francisco. (2022) "*La Llorona*: Turning Horror into Light." Criterion Collection](https://www.criterion.com/current/posts/7960-la-llorona-turning-horror-into-light)
 - "Acts of Genocide".  In, Grandin, Greg, Deborah T. Levenson, and Elizabeth Ogelsby, ed. (2011) *The Guatemala Reader : History, Culture, Politics*. Durham: Duke University Press.
 - US State Department and US Embassy. "We Cannot Confirm nor Deny." In, Grandin, et. al. (2011) *The Guatemala Reader : History, Culture, Politics*. Durham: Duke University Press.
 - Falla, Ricardo. "The San Francisco Massacre, July 1982." In, Grandin, et.al. (2011) *The Guatemala Reader : History, Culture, Politics*. Durham: Duke University Press.
 - Menchú, Rigoberta. "Our History Is a Living History." In, Grandin, et.al. (2011) *The Guatemala Reader : History, Culture, Politics*. Durham: Duke University Press.
 - [Winick, Stephen. (2021) "La Llorona: An Introduction to the Weeping Woman." Library of Congress](https://blogs.loc.gov/folklife/2021/10/la-llorona-an-introduction-to-the-weeping-woman/)
+- This American Life. (2012) ["What Happened at Dos Erres?"](https://www.thisamericanlife.org/465/what-happened-at-dos-erres).
 
