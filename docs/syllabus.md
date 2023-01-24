@@ -14,7 +14,8 @@ Spring 2023
 **Office Hours:** Wednesday, 2:30-4:30, or by appointment
 
 **TAS:**
-**Mr. Roraig **
+**Mr. Roraig Finney**  
+**Mr. Casey Price**
 
 
 # About
