@@ -11,12 +11,12 @@ Spring 2023
 **Email:** cblack6@utk.edu  
 **Phone:** 974-9871  
 **Office:** 2627 Dunford Hall, 6th Floor (Until they burn that Dunford down.)   
-**Office Hours:** Tuesday, 2:30-4:30, or by appointment
+**Office Hours:** Wednesday, 1:30-3:30, or by appointment
 
 **TAS:**
 
-**Mr. Roraig Finney**  
-**Mr. Casey Price**
+**Mr. Roraig Finney**  (rfinney3@vols.utk.edu): alphabet **I-Z**.
+**Mr. Casey Price** (cprice51@vols.utk.edu): alphabet **A-H**.
 
 
 # About
