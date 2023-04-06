@@ -209,3 +209,6 @@ Readings:
 
 ### FINAL EXAM
 
+**Monday, May 15, 2023. 3:30-6:00pm** 
+(the official exam time)
+
