@@ -16,4 +16,7 @@ Time to play turn-of-the-century Shark Tank. Only, you won't be pitching an inve
 
 ## film reaction (15%)
 
-Students will view, research, and write about Jayro Bustamante's *La Llorona* (2020), a film that uses the genre of horror to process the trauma's of Guatemala's civil war and genocidal  policies towards Mayan communities in the 1980s. You must write a 4-6 page analytical review of the film informed by a set of provided sources.
+Students will view, research, and write about Jayro Bustamante's *La Llorona* (2020), a film that uses the genre of horror to process the trauma's of Guatemala's civil war and genocidal  policies towards Mayan communities in the 1980s. You must write a 4-6 page analytical review of the film informed by a set of provided sources. [There is a description of the film, instructions, etc. located here.](https://chadblack.net/2023MLA/resources/la%20llorona%20review%20essay/).
+
+
+
